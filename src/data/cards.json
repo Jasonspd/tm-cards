@@ -1,0 +1,35 @@
+[
+  {
+    "card": "student",
+    "title": "Student Life",
+    "apr": 18.9,
+    "balanceTransferOfferDuration": 0,
+    "purchaseOfferDuration": 6,
+    "creditAvailable": 1200,
+    "student": true,
+    "highIncome": false,
+    "description": "The Student Life credit card is only available to customers with an employment status of Student."
+  },
+  {
+    "card": "anywhere",
+    "title": "Anywhere Card",
+    "apr": 33.9,
+    "balanceTransferOfferDuration": 0,
+    "purchaseOfferDuration": 0,
+    "creditAvailable": 300,
+    "student": false,
+    "highIncome": false,
+    "description": "The anywhere card is available to anyone anywhere."
+  },
+  {
+    "card": "liquid",
+    "title": "Liquid Card",
+    "apr": 33.9,
+    "balanceTransferOfferDuration": 12,
+    "purchaseOfferDuration": 6,
+    "creditAvailable": 3000,
+    "student": false,
+    "highIncome": true,
+    "description": "The Liquid card is a card available to customers who have an income of more than £16000."
+  }
+]

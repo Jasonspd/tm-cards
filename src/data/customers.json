@@ -1,0 +1,29 @@
+[
+  {
+    "portraitSrc": "https://www.totallymoney.com/assets/images/candidate-test-portrait-1.png",
+    "titleAndNames": "Mr. Ollie Murphree",
+    "dob": "01/07/1970",
+    "status": "Full time",
+    "annualIncome": 34000,
+    "houseNumber": 700,
+    "postcode": "BS14 9PR"
+  },
+  {
+    "portraitSrc": "https://www.totallymoney.com/assets/images/candidate-test-portrait-2.png",
+    "titleAndNames": "Miss Elizabeth Edmundson",
+    "dob": "29/06/1984",
+    "status": "Student",
+    "annualIncome": 17000,
+    "houseNumber": 177,
+    "postcode": "PH12 8UW"
+  },
+  {
+    "portraitSrc": "https://www.totallymoney.com/assets/images/candidate-test-portrait-3.png",
+    "titleAndNames": "Mr. Trevor Rieck",
+    "dob": "07/09/1990",
+    "status": "Part Time",
+    "annualIncome": 15000,
+    "houseNumber": 343,
+    "postcode": "TS25 2NF"
+  }
+]
